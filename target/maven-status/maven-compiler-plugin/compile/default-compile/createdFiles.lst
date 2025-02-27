@@ -1,0 +1,10 @@
+responseModels\createBookResponse\BookingInfoResponse.class
+responseModels\createBookResponse\CreateBookResponse.class
+responseModels\createBookResponse\BookingDatesResponse.class
+responseModels\CreateAuthResponse.class
+helpers\Helpers.class
+requests\Requests.class
+requestModels\CreateAuthRequest.class
+org\example\Main.class
+requestModels\createBookRequest\BookingDatesRequest.class
+requestModels\createBookRequest\CreateBookRequest.class
